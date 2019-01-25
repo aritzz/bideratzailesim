@@ -1,0 +1,23 @@
+  Konputagailu Paraleloko Sistemak: Bideratzailea
+=======================================================
+
+1. Deskribapena
+
+Ondorengo hiru fitxategiak erabiltzen dira:
+
+bideratzailea.c: Programa nagusia exekutatzen da eta datuak eskatzen ditu
+bideratzea.c: Bideratzeak egiteko eta informazioa inprimatzeko funtzio guztiak
+bideratzea.h: Datu-egiturak eta funtzioen deklarazioak
+
+Kalkulatutako datu guztiak datu-egitura baten gordetzen dira gero datu horiek
+tratatu nahi izan ezkero. Nodoak lista estekatuko egitura batean sartzen dira
+sarearen datu-egituraren barruan.
+
+2. Konpilazioa
+
+Konpilazioa egiteko "make" agindua erabiltzea nahikoa da eta exekutagarri
+bat sortuko du direktorioan.
+
+
+- Aritz Olea Zubikarai
+- 2016ko martxoaren 2a
